@@ -10,7 +10,7 @@ The exercise images cover the entire grades of Chinese primary students (usually
 This dataset contains 77, 098 expressions.
 Annotation of each expression has two attributes: 1) a bounding box that covers the entire AE even if it is multi-lined, and 2) a char-level text annotation. 
 
-Paper: https://ojs.aaai.org/index.php/AAAI/article/view/5410/5266 [Link](https://ojs.aaai.org/index.php/AAAI/article/view/5410/5266) 
+Paper: https://ojs.aaai.org/index.php/AAAI/article/view/5410/5266 ([Link](https://ojs.aaai.org/index.php/AAAI/article/view/5410/5266) )
 
 Data download link: [Link](https://pan.baidu.com/s/1kKWdqGao4f8G_kOFnt8VeA) code: u1uw
 
